@@ -1,4 +1,3 @@
-# ServiceNowAdministrationFund-CapstoneProject
 # ServiceNow Administration Fundamentals — Capstone Project
 
 ![ServiceNow](https://img.shields.io/badge/ServiceNow-Xanadu-002B49?style=flat&logo=servicenow)
